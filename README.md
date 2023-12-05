@@ -4,7 +4,7 @@ Put all OpenShift AI Demos here
 ## Model Management
 
 ### Pull Model
-* [MLFlow Pull Model to Local](model-management/pull_model/mlflow_pull_model_to_local.ipynb)
+* [MLFlow Pull Model to Local](model-management/pull-model/mlflow_pull_model_to_local.ipynb)
 
 ### Run Model
 * [Run a PyTorch Model](model-management/run-model/pytorch/iris_classification.ipynb)
