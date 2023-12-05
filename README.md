@@ -9,4 +9,5 @@ Put all OpenShift AI Demos here
 
 ### Serving Runtimes
 
-* link:model-management/serving-runtimes/mlserver-1.3.5.yml[ML Server 1.3.5]
+* [ML Server 1.3.5](model-management/serving-runtimes/mlserver-1.3.5.yml)
+
